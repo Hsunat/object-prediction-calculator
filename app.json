@@ -1,7 +1,9 @@
 {
+  "name": "object-prediction-calculator",
+  "displayName": "object-prediction-calculator",
   "expo": {
-    "name": "rn-object-classification",
-    "slug": "rn-object-classification",
+    "name": "object-prediction-calculator",
+   "slug": "rn-object-classification",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,10 +15,8 @@
     },
     "assetBundlePatterns": [
       "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true
-    },
+    ]
+  },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
@@ -25,6 +25,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
-  }
+      }
+  
 }
